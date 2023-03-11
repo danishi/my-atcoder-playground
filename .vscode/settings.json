@@ -1,0 +1,20 @@
+{
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "terminal.integrated.scrollback": 10000,
+  "extensions.ignoreRecommendations": false,
+  "python.testing.pytestArgs": [
+      "tests"
+  ],
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestEnabled": true,
+  "python.venvFolders": [
+    "venv",
+    ".venv"
+  ],
+  "python.linting.enabled": true,
+  "python.linting.pylintEnabled": false,
+  "python.linting.flake8Enabled": true,
+  "python.linting.lintOnSave": true,
+  "python.formatting.provider": "autopep8"
+}
